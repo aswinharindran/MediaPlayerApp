@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Modal, Button, Form, FloatingLabel } from 'react-bootstrap'
-import { saveVideoAPI } from '../services/allAPI'
+import { saveVideoAPI } from '../Services/allAPI'
 
 
 const Add = ({setAddResponseFromHome}) => {
